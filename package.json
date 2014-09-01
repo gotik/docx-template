@@ -1,5 +1,5 @@
 {
-  "name": "docx template",
+  "name": "docx-template",
   "version": "0.0.0",
   "description": "",
   "main": "app.js",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "handlebars": "^2.0.0-beta.1",
-    "jszip": "^2.4.0"
+    "jszip": "^2.4.0",
+    "xmldom": "^0.1.19"
   }
 }
